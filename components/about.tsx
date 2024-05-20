@@ -28,7 +28,7 @@ export default function About() {
         <span className="italic">When I'm not coding</span>, I enjoy playing
         football and {" "}
         <span className="font-medium">learning new things</span>. I am currently
-        learning {" "}
+        learning to {" "}
         <span className="font-medium">build games</span>
       </p>
     </motion.section>
